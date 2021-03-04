@@ -4,6 +4,6 @@
 
 ### Principle 1: Purpose of collection of personal information
 
-#### How can we collect users personal information to provide our services?
-- [ ] Users will have the option of registering personal information in order for them to use our services.
+#### How can we collect users personal information to function?
+- [ ] Users will have the option of registering personal information.
 - [ ] Users will be able to
