@@ -12,25 +12,25 @@
 
 #### Consider what you would have to do to comply with each of these principles if you were developing an IT system?
 - [ ] Provide at least two actionable items for each of the principles you have selected for the checklist.
-- [ ] Users will be able to log in with a membership.
+- [ ] actionable action goes here.
 
 ### Principle 3: Collection of information from subject
  
 #### How are we going to ensure that users have the ability to update their personal information? <!-- example of what I need to do to comply-->
  - [ ] Users have the ability to update their personal information. <!-- example of actionable item-->
-- [ ] Users will be able to log in with a membership.
+- [ ] actionable action goes here.
 
 ### Principle 4: Manner of collection of personal information
 
 #### How are we going to ensure that users have the ability to update their personal information? <!-- example of what I need to do to comply-->
  - [ ] Users have the ability to update their personal information. <!-- example of actionable item-->
-- [ ] Users will be able to log in with a membership.
+- [ ] actionable action goes here.
 
 ### Principle 5: Storage and security of personal information
 
 #### How are we going to ensure that users have the ability to update their personal information? <!-- example of what I need to do to comply-->
  - [ ] Users have the ability to update their personal information. <!-- example of actionable item-->
-- [ ] Users will be able to log in with a membership.
+- [ ] actionable action goes here.
 
 copyright act 1993 principles
 https://www.legislation.govt.nz/act/public/1993/0028/latest/DLM297038.html
