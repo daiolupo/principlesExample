@@ -1,4 +1,4 @@
-# principlesExample
+# Practical Task 1: IT and Law (L01)
 
 ## Principle 1: Purpose of collection of personal information
 
