@@ -1,7 +1,6 @@
 # principlesExample
 
-# Principle 1: Early and continuous deliver of valuable software
-### small introduction on what I think that means.
+## Principle 1: Purpose of collection of personal information
 
 - [ ] Quickly deliver a working prototype in the first week
 - [ ] Test this software with the client straight away
