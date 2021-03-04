@@ -4,9 +4,9 @@
 
 ### Principle 1: Purpose of collection of personal information
 
-#### How can we collect users personal information to function?
+#### How can we collect users personal information for the functioning of our website? <!-- whats the function? I have no idea -->
 - [ ] Users will have the option of registering personal information.
-- [ ] Users will be able to
+- [ ] Users will be able to log in with a membership. <!-- vague and confusing -->
 
 copyright act 1993 principles
 https://www.legislation.govt.nz/act/public/1993/0028/latest/DLM297038.html
