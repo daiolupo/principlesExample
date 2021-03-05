@@ -5,7 +5,7 @@
 ### Principle 1: Purpose of collection of personal information
 
 #### How can we ensure that users provide personal information that is required for the functioning of the website?
-- [ ] Users are required to give their personal information for the functioning of the website.
+- [ ] Users are <!-- -only --> required to give their personal information for the functioning of the website.
 - [ ] Users will be able to fill out a form which only requires personal information that is needed for the functioning of the website.
 
 ****
@@ -13,8 +13,8 @@
 ### Principle 2: Source of personal information
 
 #### Consider what you would have to do to comply with each of these principles if you were developing an IT system?
-- [ ] Provide at least two actionable items for each of the principles you have selected for the checklist.
-- [ ] actionable item goes here.
+- [ ] Provide at least two actionable items for each of the principles you have selected for the checklist. <!-- could be a checklist inception-->
+- [ ] actionable item goes here. <!--Good start keep going -->
 
 ### Principle 3: Collection of information from subject
  
