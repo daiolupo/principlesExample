@@ -16,7 +16,11 @@
 
 #### Consider what you would have to do to comply with each of these principles if you were developing an IT system?
 - [ ] Provide at least two actionable items for each of the principles you have selected for the checklist. <!-- could be a checklist inception-->
+
+#### Consider what you would have to do to comply with each of these principles if you were developing an IT system?
 - [ ] actionable item goes here. <!--Good start keep going -->
+
+****
 
 ### Principle 3: Collection of information from subject
  
