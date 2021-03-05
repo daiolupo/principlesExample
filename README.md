@@ -4,9 +4,9 @@
 
 ### Principle 1: Purpose of collection of personal information
 
-#### How can we ensure users personal information is used for the functioning of the website?
-- [ ] Users will be ensured that their personal information is only for the functioning of the website.
-- [ ] Users will be able to log in with a membership.
+#### How can we ensure that users can provide personal information so we can provide our services?
+- [ ] Users will need to give their personal information so that we can provide them with our services.
+- [ ] Users will be able to fill in a form to register for a user profile in order to use our services.
 
 ### Principle 2: Source of personal information
 
