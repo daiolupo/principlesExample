@@ -33,6 +33,3 @@
 - [ ] actionable item goes here.
 
 [copyright act 1993 principles](https://www.legislation.govt.nz/act/public/1993/0028/latest/DLM297038.html)
-
-copyright act 1993 principles
-https://www.legislation.govt.nz/act/public/1993/0028/latest/DLM297038.html
