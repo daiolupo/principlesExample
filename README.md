@@ -5,7 +5,7 @@
 ### Principle 1: Purpose of collection of personal information
 
 #### How can we ensure that users provide personal information that is required for the functioning of the website?
-- [ ] Users are <!-- -only --> required to give their personal information for the functioning of the website.
+- [ ] Users are <!-- -only --> only required to give their personal information for the functioning of the website.
 - [ ] Users will be able to fill out a form which only requires personal information that is needed for the functioning of the website.
 
 ****
