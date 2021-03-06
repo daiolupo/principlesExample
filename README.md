@@ -26,10 +26,10 @@
 ### Principle 3: Collection of information from subject
 
 #### How are we going to ensure that users are aware of the agency's collection of personal information?
-- [ ] Users will be able to know in clear explanations that their personal information is being collected.
+- [ ] Users will be able to access in a clear explanation statement that their personal information is being collected.
 
 #### How are we going to ensure that users are aware of what personal information we require and why?
-- [ ] Users will be made aware of what and why we require personal information and explaining what will happen if they don't provide us with that information.
+- [ ] Users will be made aware of what and why we require personal information and explain in a statement what will happen if they don't provide us with that information.
 
 #
 
