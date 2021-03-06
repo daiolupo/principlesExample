@@ -16,6 +16,7 @@
 ### Principle 2: Source of personal information
 
 #### Consider what you would have to do to comply with each of these principles if you were developing an IT system?
+#### How can we determine if a user of personal information is an individual, group or a computer?
 - [ ] Provide at least two actionable items for each of the principles you have selected for the checklist. <!-- could be a checklist inception-->
 
 #### Consider what you would have to do to comply with each of these principles if you were developing an IT system?
