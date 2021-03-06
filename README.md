@@ -35,6 +35,12 @@
 - [ ] Users will have the ability to see who is likely to have access to their personal information and the reason why.
 - [ ] If the agency is collecting personal information on behalf of another agency, users will be offered the contact details of the agency that holds their personal information.
 
+#### How can we inform the user of their right to access their personal information?
+- [ ] Users can easily access and have the right to update their information
+- [ ] Users are able to see contact details of the staff from the agency to correct their personal information
+
+#### 
+
 #
 
 ### Principle 4: Manner of collection of personal information
