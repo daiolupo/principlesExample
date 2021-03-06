@@ -11,7 +11,7 @@
 #### How can we ensure that the user will only provide their personal information required for the functioning of the website?
 - [ ] Users will be able to fill out a required-field validation form which only requires personal information that is needed for the functioning of the website.
 
-#****
+# 
 
 ### Principle 2: Source of personal information
 
@@ -22,7 +22,7 @@
 #### How can we detect if a user is human and not a software application that runs automated tasks?
 - [ ] Users will have the ability to prove they are human and not a software application that runs automated tasks. <!--Good start keep going -->
 
-****
+#
 
 ### Principle 3: Collection of information from subject
  
@@ -30,16 +30,22 @@
 - [ ] Users have the ability to update their personal information.
 - [ ] actionable item goes here.
 
+#
+
 ### Principle 4: Manner of collection of personal information
 
 #### How are we going to ensure that users have the ability to update their personal information?
 - [ ] Users have the ability to update their personal information. 
 - [ ] actionable item goes here.
 
+#
+
 ### Principle 5: Storage and security of personal information
 
 #### How are we going to ensure that users have the ability to update their personal information? 
 - [ ] Users have the ability to update their personal information. 
 - [ ] actionable item goes here.
+
+#
 
 [copyright act 1993 principles](https://www.legislation.govt.nz/act/public/1993/0028/latest/DLM297038.html)
