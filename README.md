@@ -15,11 +15,11 @@
 
 ### Principle 2: Source of personal information
 
-#### How can we authenticate a user of personal information is an individual or a group?
-- [ ] Users will have the ability to confirm that they are an individual or a group. <!-- could be a checklist inception-->
+#### How can we authenticate a user of personal information is directly from the individual or an individual who authorises someone else?
+- [ ] Users will have the ability to authenticate that they are an individual or an individual who is authorised by someone else. <!-- could be a checklist inception-->
 
 #### How can we detect if a user is human and not a software application that runs automated scripts?
-- [ ] Users will be able to be detected if they are human and not a software application that runs automated scripts. <!-- Good start keep going -->
+- [ ] Users will be able to be tested if they are human and not a software application that runs automated scripts. <!-- Good start keep going -->
 
 #
 <!-- MARKER - TO DO LIST Principle 3, 4, 5 to complete on the 7.03.2021 -->
