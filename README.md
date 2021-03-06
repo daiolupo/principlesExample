@@ -24,12 +24,12 @@
 #
 <!-- MARKER - TO DO LIST Principle 3, 4, 5 to complete on the 7.03.2021 -->
 ### Principle 3: Collection of information from subject
- 
-#### How are we going to ensure that users are aware what personal information we collect and why?
-- [ ] Users have the ability to update their personal information.
 
-#### How are we going to ensure that users are aware what personal information we collect and why?
-- [ ] actionable item goes here.
+#### How are we going to ensure that users are aware of the agency's collection of personal information?
+- [ ] Users will be able to know in clear explanations that their personal information is being collected.
+
+#### How are we going to ensure that users are aware of what personal information we require and why?
+- [ ] Users will be made aware of what and why we require personal information and explaining what will happen if they don't provide us with that information.
 
 #
 
