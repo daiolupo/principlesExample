@@ -15,7 +15,6 @@
 
 ### Principle 2: Source of personal information
 
-<!-- #### Consider what you would have to do to comply with each of these principles if you were developing an IT system? -->
 #### How can we authenticate a user of personal information is an individual or a group?
 - [ ] Users will have the ability to confirm that they are an individual or a group. <!-- could be a checklist inception-->
 
@@ -23,7 +22,7 @@
 - [ ] Users will have the ability to prove they are human and not a software application that runs automated tasks. <!--Good start keep going -->
 
 #
-
+<!-- MARKER - TO DO LIST Principle 3, 4, 5 to complete on the 7.03.2021 -->
 ### Principle 3: Collection of information from subject
  
 #### How are we going to ensure that users have the ability to update their personal information?
