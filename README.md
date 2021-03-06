@@ -9,7 +9,7 @@
 - [ ] Users are <!-- -only --> only required to give their personal information for the agency to function.
 
 #### How can we be certain that users personal information for the agency to function is what is required?
-- [ ] Users personal information will be able to verified through a required-field validation process which only requires personal information for the agency to function.
+- [ ] Users personal information will be able to be verified through a required-field validation process which only requires personal information for the agency to function.
 
 # 
 
