@@ -5,11 +5,11 @@
 
 ### Principle 1: Purpose of collection of personal information
 
-#### How can we ensure that users provide personal information that is required for the functioning of the website?
-- [ ] Users are <!-- -only --> only required to give their personal information for the functioning of the website.
+#### How can we ensure that users provide personal information that is required for the agency to function?
+- [ ] Users are <!-- -only --> only required to give their personal information for the agency to function.
 
-#### How can we ensure that the user will only provide their personal information required for the functioning of the website?
-- [ ] Users will be able to fill out a required-field validation form which only requires personal information that is needed for the functioning of the website.
+#### How can we make sure that the user will only provide their personal information required for the agency to function?
+- [ ] Users will be able to fill out a required-field validation form which only requires personal information for the agency to function.
 
 # 
 
@@ -18,8 +18,8 @@
 #### How can we authenticate a user of personal information is an individual or a group?
 - [ ] Users will have the ability to confirm that they are an individual or a group. <!-- could be a checklist inception-->
 
-#### How can we detect if a user is human and not a software application that runs automated tasks?
-- [ ] Users will have the ability to prove they are human and not a software application that runs automated tasks. <!--Good start keep going -->
+#### How can we detect if a user is human and not a software application that runs automated scripts?
+- [ ] Users will be able to be detected if they are human and not a software application that runs automated scripts. <!-- Good start keep going -->
 
 #
 <!-- MARKER - TO DO LIST Principle 3, 4, 5 to complete on the 7.03.2021 -->
