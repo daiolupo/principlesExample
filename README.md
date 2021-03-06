@@ -11,7 +11,7 @@
 #### How can we ensure that the user will only provide their personal information required for the functioning of the website?
 - [ ] Users will be able to fill out a required-field validation form which only requires personal information that is needed for the functioning of the website.
 
-****
+#****
 
 ### Principle 2: Source of personal information
 
