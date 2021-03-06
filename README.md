@@ -31,6 +31,10 @@
 #### How are we going to ensure that users are aware of what personal information we require and why?
 - [ ] Users will be made aware of what and why we require personal information and explain in a statement what will happen if they don't provide us with that information.
 
+#### How can we ensure the user is aware of who will see their personal information?
+- [ ] Users will have the ability to see who is likely to have access to their personal information and the reason why.
+- [ ] If the agency is collecting personal information on behalf of another agency, users will be offered the contact details of the agency that holds their personal information.
+
 #
 
 ### Principle 4: Manner of collection of personal information
