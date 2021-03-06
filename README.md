@@ -9,18 +9,18 @@
 - [ ] Users are <!-- -only --> only required to give their personal information for the functioning of the website.
 
 #### How can we ensure that the user will only provide their personal information required for the functioning of the website?
-- [ ] Users will be able to fill out a form which only requires personal information that is needed for the functioning of the website.
+- [ ] Users will be able to fill out a required-field validation form which only requires personal information that is needed for the functioning of the website.
 
 ****
 
 ### Principle 2: Source of personal information
 
 <!-- #### Consider what you would have to do to comply with each of these principles if you were developing an IT system? -->
-#### How can we ensure a user of personal information is an individual or a group?
+#### How can we authenticate a user of personal information is an individual or a group?
 - [ ] Users will have the ability to confirm that they are an individual or a group. <!-- could be a checklist inception-->
 
-#### Consider what you would have to do to comply with each of these principles if you were developing an IT system?
-- [ ] actionable item goes here. <!--Good start keep going -->
+#### How can we detect if a user is human and not a software application that runs automated tasks?
+- [ ] Users will have the ability to prove they are human and not a software application that runs automated tasks. <!--Good start keep going -->
 
 ****
 
