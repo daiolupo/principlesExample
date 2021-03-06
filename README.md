@@ -25,7 +25,7 @@
 <!-- MARKER - TO DO LIST Principle 3, 4, 5 to complete on the 7.03.2021 -->
 ### Principle 3: Collection of information from subject
 
-#### How are we going to ensure that users are aware of the agency's collection of personal information?
+#### How are we going to make sure users are aware of the agency's collection of personal information?
 - [ ] Users will be able to access in a clear explanation statement that their personal information is being collected.
 
 #### How are we going to ensure that users are aware of what personal information we require and why?
