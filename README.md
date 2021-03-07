@@ -47,9 +47,9 @@
 <!-- MARKER - TO DO LIST Principle 4 and 5 to complete on the 7.03.2021 -->
 ### Principle 4: Manner of collection of personal information
 
-#### How are we going to ensure that users have the ability to update their personal information?
-- [ ] Users have the ability to update their personal information. 
-- [ ] actionable item goes here.
+#### How are we going to ensure the collection of users personal information is not unlawful?
+- [ ] Users will have the ability to consent to the collection of their personal information. 
+- [ ] Users has the assurance that they control their data and withdraw consent at any time by contacting the agency.
 
 #
 
