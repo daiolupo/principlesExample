@@ -2,7 +2,7 @@
 20210528 Dwain Aiolupotea
 
 PURPOSE OF PRIVACY CHECKLIST
-Compile a privacy checklist you can use when developing an IT system such as an app or a website based on the *five* of the twelve privacy principles.
+Compile a privacy checklist you can use when developing an IT system such as an app or a website based on the **five** of the twelve privacy principles.
 
 ## 1. Privacy Checklist
 
