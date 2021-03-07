@@ -1,6 +1,9 @@
 # Practical Task 1: IT and Law (L01)
 20210528 Dwain Aiolupotea
 
+PURPOSE OF PRIVACY CHECKLIST
+Compile a privacy checklist you can use when developing an IT system such as an app or a website based on the privacy principles.
+
 ## 1. Privacy Checklist
 
 ### Principle 1: Purpose of collection of personal information
