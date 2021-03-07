@@ -55,9 +55,9 @@
 
 ### Principle 5: Storage and security of personal information
 
-#### How are we going to ensure that users have the ability to update their personal information? 
-- [ ] Users have the ability to update their personal information. 
-- [ ] actionable item goes here.
+#### How are we going to ensure that users personal information is stored safely and securely? 
+- [ ] Users personal information will be stored securely using industry best practices for encryption eg... updating passwords, using anti-virus software and employing proper firewalls.
+- [ ] Users personal information will be protected from unauthorised access, modification and disclosure by carrying out regularly security checks and identifying weakness' and fixing them.
 
 #
 
