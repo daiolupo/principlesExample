@@ -39,7 +39,9 @@
 - [ ] Users can easily access and have the right to update their information
 - [ ] Users are able to see contact details of the staff from the agency to correct their personal information
 
-#### 
+#### How do we ensure the collection of users personal information is voluntary when a specific piece of law is required by the agency?
+- [ ] Users have the ability to disclose that personal information voluntarily.
+- [ ] If a user is required by a specific law for the agency to collect that information then a clear explanation of what will happen if we do not have that information eg. a fine if they do not provide that information.
 
 #
 
