@@ -22,7 +22,7 @@
 - [ ] Users will be able to be tested if they are human and not a software application that runs automated scripts. <!-- Good start keep going -->
 
 #
-<!-- MARKER - TO DO LIST Principle 3, 4, 5 to complete on the 7.03.2021 -->
+
 ### Principle 3: Collection of information from subject
 
 #### How are we going to make sure users are aware of the agency's collection of personal information?
@@ -44,7 +44,7 @@
 - [ ] If a user is required by a specific law for the agency to collect that information then a clear explanation of what will happen if we do not have that information eg. a fine if they do not provide that information.
 
 #
-
+<!-- MARKER - TO DO LIST Principle 4 and 5 to complete on the 7.03.2021 -->
 ### Principle 4: Manner of collection of personal information
 
 #### How are we going to ensure that users have the ability to update their personal information?
