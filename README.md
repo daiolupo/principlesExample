@@ -44,7 +44,7 @@
 - [ ] If a user is required by a specific law for the agency to collect that information then a clear explanation of what will happen if we do not have that information eg. a fine if they do not provide that information.
 
 #
-<!-- MARKER - TO DO LIST Principle 4 and 5 to complete on the 7.03.2021 -->
+
 ### Principle 4: Manner of collection of personal information
 
 #### How are we going to ensure the collection of users personal information is not unlawful?
@@ -57,8 +57,10 @@
 
 #### How are we going to ensure that users personal information is stored safely and securely? 
 - [ ] Users personal information will be stored securely using industry best practices for encryption eg... updating passwords, using anti-virus software and employing proper firewalls.
-- [ ] Users personal information will be protected from unauthorised access, modification and disclosure by carrying out regularly security checks and identifying weakness' and fixing them.
+- [ ] Users personal information will be protected from unauthorised access, use, modification and disclosure by carrying out regularly security checks and identifying weakness' and fixing them.
 
 #
+
+
 
 [copyright act 1993 principles](https://www.legislation.govt.nz/act/public/1993/0028/latest/DLM297038.html)
